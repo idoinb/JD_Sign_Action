@@ -44,7 +44,7 @@
 
 ## 获取Server酱SCKEY
 
-* github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
+* github 授权登录[Ser ver酱](http://sc.ftqq.com/3.version)官网；
 * 菜单栏`微信推送`扫描绑定微信；
 * 菜单栏`发送消息`拷 贝SCKEY ； 
 
